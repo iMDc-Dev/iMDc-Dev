@@ -9,8 +9,8 @@ Developer with over 5 years of experience in web and mobile solution development
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://imdc.dev)
-[![website](./img/globe-dark.svg)](https://imdc.dev)
+[![website](./img/globe-light.svg)](https://imdc.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://imdc.dev#gh-dark-mode-only)
 
 ```javascript
 const iMDcDev = {
