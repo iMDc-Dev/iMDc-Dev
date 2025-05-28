@@ -1,5 +1,5 @@
 <h1 align="center">iMDc-Dev</h1>
-<hr>
+
 Developer with over 5 years of experience in web and mobile solution development. I have worked on both frontend and backend using technologies such as React, Node.js, PHP, and relational and NoSQL databases. Experienced in leading teams, advising on interface design and user experience, and participating in data analysis and quality assurance. Focused on best practices, teamwork, and continuous improvement.
 
 <p align="center">
