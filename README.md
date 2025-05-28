@@ -28,7 +28,7 @@ const iMDcDev = {
             backend: ["PHP", "C# (.net)", "Python", "NodeJS"]
         },
         desktop: ["C#", "C++", "Python", "Electron"],
-        mobile: ["React Native", "C# (Xamarin)"]
+        mobile: ["React Native", "C# (Xamarin)"],
         databases: ["MySQL", "MongoDb", "Microsoft SQL Server", "SQLite", "PostgreSQL"]
     }
 }
